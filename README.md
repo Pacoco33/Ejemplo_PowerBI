@@ -1,6 +1,6 @@
 # Análisis de Ventas de Videojuegos con Power BI
 
-Este proyecto consiste en la transformación, modelado y visualización de un conjunto de datos de ventas de videojuegos a nivel mundial. Ha sido desarrollado como parte de una práctica de análisis con Power BI, utilizando técnicas de limpieza con Power Query, visualización interactiva y segmentación avanzada.
+Este proyecto consiste en la transformación, modelado y visualización de un conjunto de datos de ventas de videojuegos a nivel mundial. Ha sido desarrollado como parte de una práctica de análisis con Power BI, utilizando técnicas de limpieza con Power Query, visualización interactiva y segmentación avanzada. Realizado en el módulo "Big Data" del Curso de Especialización "IA y Big Data".
 
 ## Objetivo del Proyecto
 
@@ -12,7 +12,8 @@ Analizar la evolución de las ventas de videojuegos a lo largo del tiempo, por r
 - `vgsales.xlsx`: Fuente de datos original en formato Excel.
 - `videosales.pdf`: Exportación del dashboard como documento PDF.
 - `README.md`: Descripción completa del proyecto.
-
+- `Transformación y visualización de datos con Power Query - Paco Cabrerizo.pdf`: Manual-guía elaborado por mí como soporte para el proceso de transformación y visualización de datos en Power BI.
+  
 ## Proceso de Transformación de Datos
 
 La limpieza y transformación de datos se llevó a cabo en Power Query, incluyendo los siguientes pasos:
