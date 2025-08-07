@@ -48,3 +48,7 @@ El dashboard final incluye las siguientes visualizaciones:
 - Power Query para limpieza y transformación de datos
 - Excel como fuente de datos original
 - Exportación del informe en formato PDF
+
+## Vista previa del dashboard
+
+![Vista previa del dashboard](dashboard.png)
